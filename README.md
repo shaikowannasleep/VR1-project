@@ -1,5 +1,6 @@
 # VR1 project
  VR project
+ Van Dinh Dung_ 20198222
 Instructions
 SV nộp bài thực hành VR theo cách như sau
 Upload toàn bộ mã nguồn (file .zip, .rar) lên thư mục OneDrive: [Submissions]. Đặt tên file nén theo mẫu MSSV - Tên SV 
